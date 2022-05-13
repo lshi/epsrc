@@ -8,6 +8,8 @@
 %%   OR
 %%   The 2-clause BSD-style license.
 %%
+%% SPDX-License-Identifier: LPPL-1.3c+ OR BSD-2-Clause
+%%
 \NeedsTeXFormat{LaTeX2e}[1994/06/01]
 \ProvidesClass{epsrc}%
   []
