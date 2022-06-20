@@ -42,7 +42,7 @@ Otherwise, the class file is loaded as usual:
 ```
 
 This ensures a document following the basic layout on a4 paper with 2 cm margins
-and a base font that is metrially compatible with Arial (the current setup uses
+and a base font that is metrically compatible with Arial (the current setup uses
 [Arimo](https://fonts.google.com/specimen/Arimo)). Moreover, the font size is
 scaled to use 11 pt in Postscript Points.
 
